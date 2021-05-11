@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple bookmark app built using Javascript, HTML, and CSS. Allows users to save website bookmarks in their browser's local storage.
+A simple bookmark app built using JavaScript, HTML, and CSS. Allows users to save website bookmarks in their browser's local storage.
 
 ## Languages & Technologies
 
